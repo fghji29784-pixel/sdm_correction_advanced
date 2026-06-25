@@ -2,3 +2,10 @@ __pycache__/
 *.pyc
 *.pyo
 .DS_Store
+
+# 실행 산출물
+demo_result.csv
+demo_plot.png
+*.png
+*.xlsx
+!보정법_후보_조사.md
